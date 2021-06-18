@@ -19,8 +19,7 @@ Here are some helpful tips. The ordering of the keys in the output json is not i
 
 ## Submission Instructions
 
-* Create an account on [Bitbucket](https://bitbucket.org/) and create a private repo.
-* Share private repo with joe AT greenback.com
+* Create a private repo on GitHub, invite jjlauer to it
 * Please include instructions on how to run your application in your repo's README.md
 * Email your Greenback contact OR careers@greenback.com to make sure we know you submitted your repository
 
