@@ -1,6 +1,6 @@
 # Coding Exercise
 
-This coding exercise is part of the application process for Greenback.
+This coding exercise is part of the application process for Dext (formerly Greenback).
 
 ## Instructions
 
@@ -21,6 +21,6 @@ Here are some helpful tips. The ordering of the keys in the output json is not i
 
 * Create a private repo on GitHub, invite jjlauer to it
 * Please include instructions on how to run your application in your repo's README.md
-* Email your Greenback contact OR careers@greenback.com to make sure we know you submitted your repository
+* Email your Dext (Greenback) contact OR careers@greenback.com to make sure we know you submitted your repository!
 
 We look forward to seeing what you code!
